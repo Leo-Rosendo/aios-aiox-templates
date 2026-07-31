@@ -95,6 +95,8 @@ Muitas das ferramentas e skills mencionadas aqui são de código aberto e mantid
 **Leo Rosendo**  
 GitHub: [@Leo-Rosendo](https://github.com/Leo-Rosendo)  
 📫 Me siga no Instagram para mais dicas de IA!
+@leorosendoalves
+
 
 ---
 
